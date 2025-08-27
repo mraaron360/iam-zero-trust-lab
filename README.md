@@ -14,17 +14,11 @@ Hands-on Identity & Access Management (IAM) projects to showcase **engineering s
   - Metadata endpoints
   - User session & claims display
 
-🔗 [Setup Guide](sso-integration-lab/README.md)  
-📄 [SSO Flow Documentation](sso-integration-lab/docs/SSO_Flow.md)
-
----
 
 ### 2) MFA Enforcement Script
 - Python scripts using **Okta API** to audit & enforce MFA
 - `okta_mfa_audit.py` → generates `mfa_report.csv` of enrolled factors
 - `okta_mfa_enforce.py` → adds non-MFA users to an “MFA Required” group
-
-🔗 [Setup Guide](mfa-enforcement/README.md)
 
 ---
 
@@ -53,4 +47,4 @@ Hands-on Identity & Access Management (IAM) projects to showcase **engineering s
 ---
 
 ## 🧑‍💻 Author
-**Your Name** – *Identity & Access Management Engineer*  
+**AARON AGYAPONG** – *Identity & Access Management Engineer*  
